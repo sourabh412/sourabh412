@@ -69,9 +69,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/rahul-anil-nayak-039436166/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Rahulanilnayak1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/rahulxnayak/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- <a href = "https://www.linkedin.com/in/rahul-anil-nayak-039436166/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> -->
+<!-- <a href = "https://twitter.com/Rahulanilnayak1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
+<!-- <a href = "https://www.instagram.com/rahulxnayak/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 <a href = "https://github.com/sourabh412/"><img src="https://img.icons8.com//fluent/48/000000/github.png"/></a>
 
 </p>
