@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="https://www.xebiaacademyglobal.com/uploads/courses/course_images/1627024349_ecbb9047b81b56b65ce5.png" height="175px"/>
+<img width="100%" height="auto" src="https://miro.medium.com/max/828/0*bOaUpBmMaUwhwprl.webp" height="175px"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sourabh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
