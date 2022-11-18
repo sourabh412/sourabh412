@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="[[https://i.imgur.com/iXuL1HG.png](https://www.springboard.com/blog/wp-content/uploads/2017/02/data-science-process-a-beginners-guide-in-plain-english.png)](https://www.xebiaacademyglobal.com/uploads/courses/course_images/1627024349_ecbb9047b81b56b65ce5.png)" height="175px"/>
+<img width="100%" height="auto" src="https://www.xebiaacademyglobal.com/uploads/courses/course_images/1627024349_ecbb9047b81b56b65ce5.png" height="175px"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sourabh</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
