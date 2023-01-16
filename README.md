@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **hiremathsourabh12@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the Workout regularly.**
+- ⚡ Fun fact **I play games and Workout regularly.**
 
 ## 🚀 Languages and Tools:
 
