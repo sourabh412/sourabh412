@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Flutter app development()**
+- 🔭 I’m currently working on **Flutter app development.**
 
 - 🌱 I’m currently learning **Deep Learning.**
 
