@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://sourabh412.github.io/portfolio)**
 
-- 📫 How to reach me **hiremathsourabh12@gmail.com**
+- 📫 How to reach me **sourabh.hiremath@outlook.com**
 
 - ⚡ Fun fact **I play games and Workout regularly.**
 
@@ -53,11 +53,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
-<br/>
-
-<a href="https://github.com/sourabh412/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sourabh412&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
